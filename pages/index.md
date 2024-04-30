@@ -7,4 +7,4 @@ plum: true
 
 Hi, I am xulai.
 
-<div flex-auto />
+<div class="flex-auto min-h-[calc(100vh-17rem)]" />

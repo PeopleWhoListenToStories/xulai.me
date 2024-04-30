@@ -30,6 +30,10 @@ const { y: scroll } = useWindowScroll()
     <nav class="nav">
       <div class="spacer" />
       <div class="right" print:op0>
+        <RouterLink to="/resume" title="resume">
+          <span class="lt-md:hidden">resume</span>
+          <div i-ri-heart-line class="md:hidden" />
+        </RouterLink>
         <a href="https://github.com/PeopleWhoListenToStories" target="_blank" title="GitHub" class="lt-md:hidden">
           <div i-uil-github-alt />
         </a>

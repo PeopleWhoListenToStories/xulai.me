@@ -30,7 +30,7 @@ async function buildBlogRSS() {
     description: 'xulai\' Blog',
     id: 'https://xulai.me/',
     link: 'https://xulai.me/',
-    copyright: 'CC BY-NC-SA 4.0 2020 © xulai',
+    copyright: 'CC BY-NC-SA 4.0 2024 © xulai',
     feedLinks: {
       json: 'https://xulai.me/feed.json',
       atom: 'https://xulai.me/feed.atom',
