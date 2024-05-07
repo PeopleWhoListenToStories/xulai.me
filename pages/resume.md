@@ -9,6 +9,6 @@ code: '@layout-full-width'
 <!DOCTYPE html>
 <html lang="en">
 <body>
-  <iframe src="https://resume.leixu.live" width="100%" height="2500px" />
+  <iframe src="https://resume.leixu.live" width="100%" height="2900px" />
 </body>
 </html>
